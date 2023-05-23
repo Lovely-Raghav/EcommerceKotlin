@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "542093040625",
+    "project_id": "ecommerceapplicatio",
+    "storage_bucket": "ecommerceapplicatio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542093040625:android:56aa2315d4db1b74544250",
+        "android_client_info": {
+          "package_name": "com.lovely.e_commerceapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542093040625-nrk9f09nd28sf253e5lfr62mpec6rdvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqWVLwJ34-IpJDg-qeI0my3B_tSwius0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542093040625-nrk9f09nd28sf253e5lfr62mpec6rdvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542093040625:android:35da15a65a5b535e544250",
+        "android_client_info": {
+          "package_name": "com.lovely.ecomerceadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542093040625-nrk9f09nd28sf253e5lfr62mpec6rdvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqWVLwJ34-IpJDg-qeI0my3B_tSwius0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542093040625-nrk9f09nd28sf253e5lfr62mpec6rdvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542093040625:android:665cee7b2b14f6a2544250",
+        "android_client_info": {
+          "package_name": "com.lovely.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542093040625-nrk9f09nd28sf253e5lfr62mpec6rdvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqWVLwJ34-IpJDg-qeI0my3B_tSwius0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542093040625-nrk9f09nd28sf253e5lfr62mpec6rdvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
